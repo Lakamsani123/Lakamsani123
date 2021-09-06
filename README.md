@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakamsani123
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning python
 
 <!---
 Lakamsani123/Lakamsani123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
